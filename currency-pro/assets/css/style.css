@@ -1,0 +1,14 @@
+.wrapingdiv form, .wrapingdiv h6, .wrapingdiv table, .wrapingdiv .btn, .result{
+    font-size: 20px!important;
+
+}
+
+#updatetime{
+    margin-top: 30px;
+}
+
+.result{
+    padding: 20px;
+    background-color: gray;
+    color: #ffff;
+}
